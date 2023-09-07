@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\suips\Desktop\flasgger_test\env"
+VIRTUAL_ENV="C:\Users\sudip\Documents\RegOneProjects\flasgger_test\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
